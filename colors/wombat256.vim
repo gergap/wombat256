@@ -46,7 +46,7 @@ hi SignColumn   ctermfg=192  ctermbg=233     cterm=none
 hi ColorColumn  ctermbg=0
 
 " Syntax highlighting
-hi Comment 		ctermfg=144	 ctermbg=0
+hi Comment 		ctermfg=144	 cterm=italic
 hi Todo 		ctermfg=245	 cterm=italic
 hi Constant 	ctermfg=173	 cterm=none
 hi String 		ctermfg=113	 cterm=none
