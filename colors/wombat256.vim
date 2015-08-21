@@ -30,7 +30,7 @@ hi StatusLine 	ctermfg=7	 ctermbg=238	 cterm=none
 hi StatusLineNC ctermfg=243	 ctermbg=238	 cterm=none
 hi VertSplit 	ctermfg=238	 ctermbg=238	 cterm=none
 hi Folded 		ctermbg=238	 ctermfg=248	 cterm=none
-hi Title		ctermfg=7	 ctermbg=0	     cterm=bold
+hi Title		ctermfg=7	 ctermbg=233	 cterm=bold
 hi Visual		ctermfg=7	 ctermbg=238	 cterm=none
 hi SpecialKey	ctermfg=244	 ctermbg=233     cterm=none
 hi DiffAdd      ctermfg=0    ctermbg=113     cterm=none
