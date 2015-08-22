@@ -9,3 +9,6 @@ an example screenshot.
 
 It also supports ShowMarks hilight groups.
 
+note on italics: cterm=italic didn't work out of the box in my KDE Konsole.
+Exporting TERM=rxvt-unicode-256color in my ~/.bashrc fixed that issue.
+See https://bbs.archlinux.org/viewtopic.php?id=151727
