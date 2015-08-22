@@ -43,7 +43,7 @@ hi ShowMarksHLu ctermfg=192  ctermbg=233     cterm=none
 hi ShowMarksHLo ctermfg=192  ctermbg=233     cterm=none
 hi ShowMarksHLm ctermfg=192  ctermbg=233     cterm=none
 hi SignColumn   ctermfg=192  ctermbg=233     cterm=none
-hi ColorColumn  ctermbg=0
+hi ColorColumn  ctermfg=196  ctermbg=232     cterm=none
 
 " Syntax highlighting
 hi Comment 		ctermfg=144	 cterm=italic
