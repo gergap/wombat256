@@ -36,7 +36,7 @@ hi SpecialKey	ctermfg=244	 ctermbg=233     cterm=none
 hi DiffAdd      ctermfg=0    ctermbg=113     cterm=none
 hi DiffChange   ctermfg=0    ctermbg=175     cterm=none
 hi DiffDelete   ctermfg=0    ctermbg=17      cterm=none
-hi SpellBad     ctermfg=0    ctermbg=161     cterm=none
+hi SpellBad     ctermfg=203  ctermbg=232     cterm=underline,italic
 hi ExtraWS      ctermfg=0    ctermbg=161     cterm=none
 hi ShowMarksHLl ctermfg=192  ctermbg=233     cterm=none
 hi ShowMarksHLu ctermfg=192  ctermbg=233     cterm=none
