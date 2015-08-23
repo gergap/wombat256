@@ -48,14 +48,14 @@ hi ColorColumn  ctermfg=196  ctermbg=232     cterm=none
 " Syntax highlighting
 hi Comment 		ctermfg=144	 cterm=italic
 hi Todo 		ctermfg=245	 cterm=italic
-hi Constant 	ctermfg=173	 cterm=none
-hi String 		ctermfg=113	 cterm=none
-hi Identifier 	ctermfg=186	 cterm=none
-hi Function 	ctermfg=186	 cterm=none
-hi Type 		ctermfg=186	 cterm=none
-hi Statement 	ctermfg=117	 cterm=none
-hi Keyword		ctermfg=117	 cterm=none
+hi Constant 	ctermfg=173	 cterm=bold
+hi String 		ctermfg=113	 cterm=bold
+hi Identifier 	ctermfg=186	 cterm=bold
+hi Function 	ctermfg=186	 cterm=bold
+hi Type 		ctermfg=186	 cterm=bold
+hi Statement 	ctermfg=117	 cterm=bold
+hi Keyword		ctermfg=117	 cterm=bold
 hi PreProc 		ctermfg=173	 cterm=none
-hi Number		ctermfg=173	 cterm=none
-hi Special		ctermfg=194	 cterm=none
+hi Number		ctermfg=173	 cterm=bold
+hi Special		ctermfg=194	 cterm=bold
 
